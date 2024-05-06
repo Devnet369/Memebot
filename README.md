@@ -1,2 +1,2 @@
-# Flappy game fully programmed in pygame by Dev Kumar
+# Flappy Game
 This game is a simple basic pygame tutorial project.
